@@ -2,3 +2,10 @@ li {
   cursor: pointer;
   transition: all 0.2s ease-in-out;
 }
+
+ul {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 999;
+}

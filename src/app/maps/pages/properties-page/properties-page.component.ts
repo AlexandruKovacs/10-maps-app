@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { CounterAloneComponent } from 'src/app/alone/components/counter-alone/counter-alone.component';
 
 interface House {
   title: string;

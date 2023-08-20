@@ -22,7 +22,7 @@ import { ZoomRangePageComponent } from './pages/zoom-range-page/zoom-range-page.
     FullScreenPageComponent,
     MarkersPageComponent,
     PropertiesPageComponent,
-    ZoomRangePageComponent
+    ZoomRangePageComponent,
   ],
   imports: [
     CommonModule,
